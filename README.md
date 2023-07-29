@@ -12,7 +12,7 @@ This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) 
 
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/ZDTaylor/Deedy-Resume-Reversed/master/sample-image.png)
+![alt tag](./sample-image.png)
 
 ## Dependencies
 
@@ -26,6 +26,9 @@ This fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) 
 -->
 
 ## Changelog
+### vNext
+ - replaced resume data with generated content for a fictional character
+ - removed unused commented out sections
 ### v1.3
  1. Removed MacFonts version as I have no desire to maintain it nor access to macOS
  2. Switched column ordering
