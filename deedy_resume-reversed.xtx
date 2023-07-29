@@ -78,8 +78,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Zachary Taylor}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
-\href{mailto:zacharydtaylor1997@gmail.com}{zacharydtaylor1997@gmail.com} | \href{tel:16156635675}{615.663.5675}
+\namesection{Alice Walker}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
+\href{mailto:alice.walker@example.com}{alice.walker@example.com} | \href{tel:1234567890}{123.456.7890}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -95,37 +95,36 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{ADTRAN}
-\descript{| Advanced Development Intern }
-\location{May 2018 – Aug 2018 | Huntsville, AL}
+\runsubsection{Tech Solutions Inc.}
+\descript{| Senior Software Engineer}
+\location{July 2021 – Present | San Francisco, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
-\item Worked with other teams to create a system to collect and visualize telemetry data of network elements in real time using AWS, Python, and DOMO.
-\item Consulted with other teams to jump start cloud-technology adoption and solutions throughout the company.
-\item Contributed to initial planning for optics-alignment system utilizing AWS, reinforcement learning, and an IoT architecture.
+\item Led the development of a scalable microservices-based architecture for a new cloud-based platform, utilizing AWS and Python.
+\item Implemented real-time data analytics and visualization using Python, Spark, and React.js, resulting in increased data insights for clients.
+\item Collaborated with cross-functional teams to design and deploy a cutting-edge AI-driven chatbot system for customer support.
+\item Mentored junior developers, conducting code reviews and promoting best practices, resulting in improved team productivity and code quality.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{ExxonMobil IT}
-\descript{| Intern }
-\location{Feb 2017 – Nov 2017 | The Woodlands, TX}
+\runsubsection{CodeCrafters Co.}
+\descript{| Software Engineer}
+\location{Jan 2019 – June 2021 | Seattle, WA}
 \begin{tightemize}
-\item Coordinated with multiple departments to lead a software product evaluation resulting in a fit-for-purpose verdict and provided a recommendation on moving forward.
-\item Organized meetings with the vendor to receive in-depth product information and answers to cross-departmental questions.
-\item Participated on the Web Development Taskforce to provide AngularJS sites to internal customers.
-\item Participated in an internal CodeJam to prototype a blockchain application for managing a model supply-chain.
-\item Worked with a team to plan executive visit and team-building exercise for 200 employees.
+\item Developed and maintained robust backend services in Python and Django, ensuring seamless integration with frontend applications.
+\item Collaborated with UX designers to create intuitive user interfaces using React.js and Redux, resulting in a 20% increase in user satisfaction.
+\item Implemented automated testing practices, resulting in a significant reduction in software defects and faster deployment cycles.
+\item Spearheaded a company-wide initiative to migrate legacy applications to a cloud-based infrastructure on AWS.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Mississippi State University ITS}
-\descript{| Assistant Support Specialist }
-\location{Aug 2015 – Oct 2016 | Mississippi State, MS}
+\runsubsection{AppStart Labs}
+\descript{| Software Engineering Intern}
+\location{May 2018 – Aug 2018 | Austin, TX}
 \begin{tightemize}
-\item Interacted with clients to assess their problems and implement a solution in an efficient, friendly manner.
-\item Prepared workstations and laptops for future use by company employees.
-\item Created scripts to automate common tasks and increase productivity.
+\item Assisted in the development of a mobile application using React Native, contributing to its successful launch on both iOS and Android platforms.
+\item Conducted performance testing and optimization, resulting in a 30% improvement in app loading times.
+\item Collaborated with a team of developers to troubleshoot and resolve critical bugs and issues, ensuring a smooth user experience.
 \end{tightemize}
 \sectionsep
 
@@ -134,87 +133,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
-\runsubsection{State Space Robotics Team}
-\descript{| Path-Planning Lead}
-\location{Jan 2018 – Present | Mississippi State, MS}
+\runsubsection{AI-Powered Personal Assistant}
+\descript{| Team Lead}
+\location{Feb 2020 – Dec 2020 | CodeCrafters Co.}
 \begin{tightemize}
-\item Spearhead the development effort for the path-planning functionality of a team of three robots.
-\item ROS provides movement servers and the planning is being implemented in Python to allow for fully-autonomous operation.
+\item Led a team of five developers to create an AI-powered personal assistant capable of voice-based interaction using natural language processing (NLP) algorithms.
+\item Developed backend APIs using Flask and integrated NLP models to process user commands effectively.
+\item Utilized Docker and Kubernetes for containerization and scalable deployment on the company's cloud infrastructure.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Chit Chat}
-\descript{| Class Project for Distributed Client-Server Programming}
-\location{Jan 2018 – May 2018 | Mississippi State, MS}
+\runsubsection{SecureChat}
+\descript{| Open Source Project}
+\location{Sep 2017 – May 2018 | GitHub}
 \begin{tightemize}
-\item Lead the development of \textbf{\href{https://github.com/ZDTaylor/ChitChat}{Chit Chat}}, an anonymous chat application created as a class project.
-\item Chit Chat provides real-time communication while utilizing a PHP backend and AngularJS frontend.
+\item Contributed to \textbf{\href{https://github.com/SecureChat/SecureChat}{SecureChat}}, an end-to-end encrypted chat application, enhancing its security features and improving performance.
+\item Collaborated with the open-source community to resolve issues and merge pull requests for a more stable application.
 \end{tightemize}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Research}
-% \runsubsection{Cornell Robot Learning Lab}
-% \descript{| Researcher}
-% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
-% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.
-% \sectionsep
-
-% \runsubsection{Cornell Phonetics Lab}
-% \descript{| Head Undergraduate Researcher}
-% \location{Mar 2012 – May 2013 | Ithaca, NY}
-% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COMMUNITY SERVICE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Community Service}
-
-% \begin{tabular}{rll}
-% 2013 -- 2018    & Tennessee     & St. Baldrick's Foundation\\
-% 2014 -- 2017	& Tennessee     & American Cancer Society's Hope Lodge\\
-% 2013 -- 2015    & Tennessee     & Habitat for Humanity\\
-% 2011 -- 2015    & Tennessee     & Special Olympics\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Societies}
-
-% \begin{tabular}{rll}
-% 2018 -- 2018    & National      & Association of Computing Machinery (ACM)\\
-% 2017 -- 2019	& National      & Scrum Alliance Certified ScrumMaster\\
-% 2015 -- 2019    & University    & Shackouls Honors College\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Awards}
-% \begin{tabular}{rll}
-% 2015        & 99\textsuperscript{th} percentile & National Merit Scholarship Finalist\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Publications}
-% \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-% \bibliographystyle{abbrv}
-% \bibliography{publications}
-% \nocite{*}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -232,12 +168,17 @@
 
 \section{Education}
 
-\subsection{Mississippi State University}
-\descript{Bachelor of Science in Computer Science with minors in Mathematics and Statistics}
-\location{Expected Dec 2019 | Starkville, MS}
+\subsection{University of XYZ}
+\descript{Master of Science in Computer Science}
+\location{May 2018 | Austin, TX}
 % College of Engineering \\
-Dean's List (All Semesters) \\
-\location{ Cum. GPA: 4.0 / 4.0}
+\location{GPA: 3.8 / 4.0}
+\sectionsep
+
+\subsection{State University}
+\descript{Bachelor of Science in Computer Science}
+\location{May 2016 | Anytown, USA}
+\location{GPA: 3.9 / 4.0}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -246,18 +187,20 @@ Dean's List (All Semesters) \\
 
 \section{Skills}
 \subsection{Programming}
+\location{5+ years:}
+Python \textbullet{} JavaScript \\
 \location{3+ years:}
-Python \textbullet{} C/C++ \\
+C/C++ \textbullet{} Java \\
+\location{2+ years:}
+React.js \textbullet{} Django \\
 \location{1+ years:}
-PHP \textbullet{} JavaScript \\
-\location{0+ years:}
-Matlab \textbullet{} R \textbullet{} SAS \\
+Flask \textbullet{} Angular \\
 \sectionsep
 
 \subsection{Technology}
-Git/Github \textbullet{} AWS \textbullet{} Linux \\
-UNIX \textbullet{} Windows \textbullet{} ROS \\
-Artificial Intelligence \textbullet{} Automation \\
+Git/Github \textbullet{} AWS \textbullet{} Docker \\
+Kubernetes \textbullet{} Linux \textbullet{} SQL \\
+Machine Learning \textbullet{} NLP \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -266,17 +209,16 @@ Artificial Intelligence \textbullet{} Automation \\
 
 \section{Coursework}
 \subsection{Graduate}
-Analysis of Algorithms
+Machine Learning \\
+Natural Language Processing \\
+Big Data Analytics \\
 \sectionsep
 
 \subsection{Undergraduate}
+Data Structures and Algorithms \\
+Database Systems \\
+Operating Systems \\
 Artificial Intelligence \\
-{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
-AI Robotics \\
-Operating Systems I \\
-Calculus I-IV \\
-Data Analysis I \\
-Introduction to Probability \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -284,10 +226,9 @@ Introduction to Probability \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Societies}
-Association for Computing Machinery (ACM)\\
-Scrum Alliance Certified ScrumMaster\\
-Shackouls Honors College\\
-National Merit Scholarship Finalist \\
+Association of Software Engineers (ASE)\\
+Women in Tech (WiT)\\
+Phi Beta Delta (Honor Society)\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -295,9 +236,9 @@ National Merit Scholarship Finalist \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links}
-Github:// \href{https://github.com/ZDTaylor}{\bf ZDTaylor} \\
-LinkedIn://  \href{https://www.linkedin.com/in/zacharydtaylor1}{\bf zacharydtaylor1} \\
-Career Center:// \href{https://msstate-csm.symplicity.com/profiles/zachary.taylor3}{\bf zachary.taylor3}
+Github:// \href{https://github.com/YourUsername}{\bf YourUsername} \\
+LinkedIn://  \href{https://www.linkedin.com/in/your-325-name}{\bf your-325-name} \\
+Portfolio:// \href{https://your-portfolio-website.com}{\bf your-portfolio-website}
 \sectionsep
 
 \end{minipage}
